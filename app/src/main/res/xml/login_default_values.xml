@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>activity_txt</key>
+        <value>Main Activity</value>
+        <key>uservarient</key>
+        <value>basevarient</value>
+    </entry>
+</defaultsMap>
